@@ -1,0 +1,25 @@
+{
+    "name": "giansalex/phpqrcode",
+    "description": "PHP QR Code is open source (LGPL) library for generating QR Code, 2-dimensional barcode.",
+    "keywords": ["php", "qrcode", "barcode"],
+    "license": "DBAD",
+    "authors": [
+        {
+            "name": "Dominik Dzienia"
+        },
+        {
+            "name": "Giancarlos Salas",
+            "email": "giansalex@gmail.com"
+        }
+    ],
+    "homepage": "http://phpqrcode.sourceforge.net/",
+    "type": "project",
+    "require": {
+		"php": ">=5.5.9"
+    },
+	"require-dev": {
+    },
+	"autoload": {
+        "files": [ "src/qrlib.php"]
+    }
+}
