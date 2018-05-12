@@ -1,4 +1,6 @@
-# PHP QR Code
+# PHP QR Code [ABANDONED]
+
+Use [BaconQrCode](https://github.com/Bacon/BaconQrCode)
 
 This is PHP implementation of QR Code 2-D barcode generator. It is pure-php
 LGPL-licensed implementation based on C libqrencode by Kentaro Fukuchi.
